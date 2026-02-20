@@ -1,8 +1,13 @@
-<p align="center">
-  <h1 align="center">🦀 clawsh-imp</h1>
-  <p align="center">
-    <strong>Lightweight Linux implant for the clawsh C2 framework</strong>
-  </p>
+  <p align="center">                                                                                                                                                                                                               
+    <h1 align="center">🦀 clawsh-imp</h1>                                                                                                                                                                                          
+    <p align="center">                                                                                                                                                                                                             
+      <strong>Lightweight Linux implant for the clawsh C2 framework</strong>                                                                                                                                                       
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/built%20with-Rust-orange?logo=rust" alt="Rust">
+      <img src="https://img.shields.io/badge/license-proprietary-red" alt="License">
+      <a href="https://github.com/y0uall/clawsh"><img src="https://img.shields.io/badge/handler-clawsh-blue" alt="Handler"></a>
+    </p>
   <p align="center">
     <a href="#quick-start">Quick Start</a> •
     <a href="#builder">Builder</a> •
