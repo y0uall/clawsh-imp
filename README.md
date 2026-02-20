@@ -7,6 +7,7 @@
       <img src="https://img.shields.io/badge/built%20with-Rust-orange?logo=rust" alt="Rust">
       <img src="https://img.shields.io/badge/license-proprietary-red" alt="License">
       <a href="https://github.com/y0uall/clawsh"><img src="https://img.shields.io/badge/handler-clawsh-blue" alt="Handler"></a>
+      <a href="https://github.com/y0uall/clawsh-proto"><img src="https://img.shields.io/badge/protocol-open%20source-brightgreen" alt="Protocol"></a>
     </p>
   <p align="center">
     <a href="#quick-start">Quick Start</a> •
