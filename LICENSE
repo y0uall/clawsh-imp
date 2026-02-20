@@ -1,0 +1,51 @@
+clawsh-imp - Proprietary Software License
+
+Copyright (c) 2026 uall. All Rights Reserved.
+
+TERMS AND CONDITIONS
+
+1. GRANT OF LICENSE
+   You are granted a non-exclusive, non-transferable, revocable license to
+   use the clawsh-imp binary and accompanying tools ("Software") for
+   personal, educational, and authorized security testing purposes only.
+
+2. RESTRICTIONS
+   You may NOT:
+   a) Reverse engineer, decompile, disassemble, or attempt to derive the
+      source code of the Software;
+   b) Modify, adapt, translate, or create derivative works based on the
+      Software (configuring the binary via builder.sh is permitted);
+   c) Redistribute, sublicense, rent, lease, or sell the Software or any
+      portion thereof without prior written consent from the copyright holder;
+   d) Remove or alter any proprietary notices, labels, or marks on the
+      Software.
+
+3. AUTHORIZED USE ONLY
+   This Software is intended solely for use in authorized security testing,
+   penetration testing engagements, CTF competitions, educational contexts,
+   and defensive security research. You are solely responsible for ensuring
+   that your use of this Software complies with all applicable laws and
+   regulations. Unauthorized deployment against systems you do not own or
+   have explicit permission to test is strictly prohibited.
+
+4. DISCLAIMER OF WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. THE ENTIRE RISK
+   ARISING OUT OF THE USE OF THE SOFTWARE REMAINS WITH YOU.
+
+5. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES,
+   OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+   ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+   OTHER DEALINGS IN THE SOFTWARE.
+
+6. TERMINATION
+   This license is effective until terminated. It will terminate automatically
+   if you fail to comply with any term or condition of this agreement. Upon
+   termination, you must destroy all copies of the Software in your possession.
+
+7. BUILDER SCRIPT
+   The builder.sh script distributed alongside the Software is included under
+   the same license terms. You may use it solely to configure the provided
+   template binary for authorized engagements.
